@@ -1,0 +1,8 @@
+12.12.08=Rediska7
+12.12.09=Rediska8
+12.12.02=Rediska1
+12.12.03=Rediska2
+12.12.06=Rediska5
+12.12.07=Rediska6
+12.12.04=Rediska3
+12.12.05=Rediska4
